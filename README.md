@@ -8,20 +8,6 @@ This eCommerce API provides a seamless and efficient way to integrate and intera
 **Server:** Node, Express,Mongo DB
 
 
-## Features
-
-- Authentication
-- Authorization
-- User management
-- Cart Service
-- Order Service
-- Product Service
-- Category Service
-- Brand Service
-- Color Service
-- Size Service
-
-
 ## Run Locally
 
 Clone the project
